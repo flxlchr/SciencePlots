@@ -1,5 +1,9 @@
 v2.2.1 (xx-yyy-2026)
 ====================
+New features
+------------
+- Add `okabe-ito` color style
+
 Maintenance
 -----------
 - Mitigate packaging issue where styles are not included in local bdist when `.git` folder is not present.
